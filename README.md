@@ -3,7 +3,7 @@
 I’m Parvathy Neelakandan, a postgraduate in Computational neuroscience and Computer Science and engineering!
 
 - 👀 I’m interested in deep learning/machine learning, computational neuroscience and software engineering.
-- 🌱 I’m here to learn and always learning! 🙂
+- 🌱 I’m here to learn! 🙂
 
 
 
