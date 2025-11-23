@@ -1,13 +1,19 @@
-👋 Hi, 
 
-I’m Parvathy Neelakandan, a postgraduate in Computational neuroscience and Computer Science and engineering!
+# 👋 Hi, I'm Parvathy Neelakandan
 
-- 👀 I’m interested in deep learning/machine learning, computational neuroscience and software engineering.
-- 🌱 I’m here to learn! 🙂
+PhD Scholar at IIT Madras & CMC Vellore, India
 
+## About Me
 
+I have a background in Computer Science and Computational Neuroscience. My PhD research focuses on using machine learning and deep learning models for arm use assessment in stroke patients using wearable sensors.
 
-<!---
-ParvN/ParvN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Interests
+
+- Machine Learning / Deep Learning
+- Computational Neuroscience
+
+## Connect
+
+- 🌐 [Website](https://parvn.github.io)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=x_sDqvEAAAAJ)
+- 🐦 [Twitter](https://twitter.com/p_a_r_v_a_t_h_y)
