@@ -16,4 +16,4 @@ I have a background in Computer Science and Computational Neuroscience. My PhD r
 
 - 🌐 [Website](https://parvn.github.io)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=x_sDqvEAAAAJ)
-- 🐦 [Twitter](https://twitter.com/p_a_r_v_a_t_h_y)
+
